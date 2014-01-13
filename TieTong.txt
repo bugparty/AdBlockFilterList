@@ -1,3 +1,19 @@
+[Adblock Plus 2.0]
+! Checksum: yV1SQ3cBQ24H7gCZhMo0Dg
+! Version: 201401131100
+! Title: EasyList
+! Last modified: 13 Jan 2014 11:00 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.adblockplus.org/
+! Licence: https://easylist-downloads.adblockplus.org/COPYING
+!
+! Please report any unblocked adverts or problems
+! in the forums (http://forums.lanik.us/)
+! or via e-mail (easylist.subscription@gmail.com).
+!
+!-----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
+
 ##div[id="adm"]
 
 
