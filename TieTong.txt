@@ -1,0 +1,9 @@
+##div[id="adm"]
+
+
+##DIV[id="um_uuid_r_w"]
+
+www.189.cn##DIV[id="ERT_0.23091790173202753"]
+user.qzone.qq.com##DIV[id="div_corner_ad_container"][class="gb_ad_tearing_angle"]
+mobile.pconline.com.cn##DIV[id="ERT_0.6123567731119692"]
+mobile.pconline.com.cn##DIV[id="intelhelper"][class="intelhelper"]
