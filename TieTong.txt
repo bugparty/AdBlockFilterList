@@ -12,7 +12,7 @@
 ! or via e-mail (easylist.subscription@gmail.com).
 !
 !-----------------------General advert blocking filters-----------------------!
-! *** easylist:easylist/easylist_general_block.txt ***
+! *** easylist:https://github.com/bugparty/AdBlockFilterList/raw/master/TieTong.txt ***
 
 ##div[id="adm"]
 
