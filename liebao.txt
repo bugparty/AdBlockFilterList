@@ -4,7 +4,7 @@
 !Updated:2014-01-11 13:50                                  
 !Version:1.0                                                            
 !Description:防止铁通Http劫持广告                                      
-!Url:https://github.com/bugparty/AdBlockFilterList/raw/master/liebao.txt                                
+!Url:http://rawgithub.com/bugparty/AdBlockFilterList/master/liebao.txt                                
 
 !do not filter vedio websites
 @@http://*.youku.com/*$document
