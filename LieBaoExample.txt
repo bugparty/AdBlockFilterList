@@ -12,3 +12,11 @@ abc.com	$w
 123.cn	$t=script,$w
 test.com	$t=image|object
 /\b(\w+)\b\s+\1\b/	$d=abc.com
+
+!Tie Tong Http Insert Attack
+##div[id="adm"]
+##DIV[id="um_uuid_r_w"]
+
+
+##DIV[id="ERT_0.23091790173202753"]
+##DIV[id="ERT_0.6123567731119692"]
