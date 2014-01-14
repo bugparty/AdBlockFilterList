@@ -4,7 +4,7 @@
 !Updated:2012-06-06 13:50
 !Version:1.0
 !Description:Test Rule
-!Url:http://test.cn/adrule.txt
+!Url:https://rawgithub.com/bugparty/AdBlockFilterList/master/LieBaoExample.txt
 
 !示例
 abc.com	$w
