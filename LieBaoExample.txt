@@ -1,0 +1,14 @@
+![Liebao Adblock Rule]
+!Title:Test Rule
+!Author:Liebao
+!Updated:2012-06-06 13:50
+!Version:1.0
+!Description:Test Rule
+!Url:http://test.cn/adrule.txt
+
+!示例
+abc.com	$w
+*/common/*	$t=image|object,$d=123.com
+123.cn	$t=script,$w
+test.com	$t=image|object
+/\b(\w+)\b\s+\1\b/	$d=abc.com
