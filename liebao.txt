@@ -1,9 +1,9 @@
 ![Liebao Adblock Rule]
-!Title:去铁通广告                                                       
-!Author:Bowman                                                     
-!Updated:2014-01-11 13:50                                  
-!Version:1.0                                                            
-!Description:防止铁通Http劫持广告                                      
+!Title:Test Rule
+!Author:Liebao
+!Updated:2012-06-06 13:50
+!Version:1.0
+!Description:Test Rule
 !Url:http://rawgithub.com/bugparty/AdBlockFilterList/master/liebao.txt                                
 
 
