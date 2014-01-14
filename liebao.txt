@@ -15,9 +15,3 @@
 ##DIV[id="ERT_0.23091790173202753"]
 ##DIV[id="ERT_0.6123567731119692"]
 
-
-
-!Qzone Ad
-##DIV[id="div_corner_ad_container"]
-!Intel Ad
-##DIV[id="intelhelper"]
