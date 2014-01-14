@@ -1,5 +1,4 @@
 ![Liebao Adblock Rule]
-! *** easylist: ***
 !Title:去铁通广告                                                       
 !Author:Bowman                                                     
 !Updated:2014-01-11 13:50                                  
