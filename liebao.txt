@@ -6,9 +6,6 @@
 !Description:防止铁通Http劫持广告                                      
 !Url:http://rawgithub.com/bugparty/AdBlockFilterList/master/liebao.txt                                
 
-!do not filter vedio websites
-http://*.youku.com/*$document $w
-http://*.tudou.com/*$document $w
 
 !Tie Tong Http Insert Attack
 ##div[id="adm"]
