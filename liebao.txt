@@ -20,4 +20,4 @@
 !Qzone Ad
 ##DIV[id="div_corner_ad_container"]
 !Intel Ad
-##DIV[id="intelhelper"][class="intelhelper"]
+##DIV[id="intelhelper"]
